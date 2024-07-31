@@ -1,0 +1,19 @@
+{
+  "name": "com.ravindu.fullyfeaturedbackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RavinduJr/fullyFeaturedBackend.git"
+  },
+  "author": "Ravindu Jayasekara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RavinduJr/fullyFeaturedBackend/issues"
+  },
+  "homepage": "https://github.com/RavinduJr/fullyFeaturedBackend#readme"
+}
